@@ -65,6 +65,6 @@ The SLA was created by first opening up the "Manage" dropdown and going into the
 
 ### Creating Help Topics
 
-This was located under the Manage tab as well. A Business Critical Outage 
+This was located under the Manage tab as well. A variety of topics were added, such as a Business Critical Outage topic, a Personal Computer Issues topic, and Equipment Issues topic, and a Password Reset topic. The tickets that were created later could be created under these categories.
 </p>
 <br />
