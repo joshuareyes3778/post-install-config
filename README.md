@@ -29,37 +29,42 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 ### Configuring Roles
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+From the admin panel in osTicket, roles were created in the Roles page under the Agents section. Adding a new role was as simple as clicking on the "Add New Role" and going from there. First, a Supreme Admin was created by creating a new role with all available permissions.
 </p>
 <br />
 
 ### Configuring Departments
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Creating some departments was done in a similar manner as creating a role, this time using the Departments page under Agents. A new department was created with the default settings for this lab.
 </p>
 <br />
 
 ### Configuring Teams
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+Created by going into the Teams tab under Agents, teams could bring agents from various departments together. In this lab a few teams were created for later use during the Agent creation process.
 </p>
 <br />
 
 ### Creating Agents and Ticket Permissions
-sos
+
+Creating Agents  was done in the Agents tab, and by simply creating credentials for 2 new "employees" that can handle tickets. These users were also assigned to the previously created departments and teams to explore the features of osTicket. In creating the credentials for these users, it allowed them to create and manage tickets alongside the supreme user account.
 </p>
 <br />
 
 ### Configuring Users
-jeej
+
+Some sample end users were also created for this lab. This process took place in the agent panel, doing so in the Users tab. Two of these mock end users were created for mock ticket creations later.
 </p>
 <br />
 
 ### Configuring SLA
-meem
+
+The SLA was created by first opening up the "Manage" dropdown and going into the SLA page listed there. Three SLA's were created for the lab, emphasizing the different possible severities and their desired time frames.For example, the most severe SLA level was created with a 24/7 working time with a 3 hour limit on the timeframe needed to resolve the ticket.
 </p>
 <br />
 
 ### Creating Help Topics
-waaw
+
+This was located under the Manage tab as well. A Business Critical Outage 
 </p>
 <br />
